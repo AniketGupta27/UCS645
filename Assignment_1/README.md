@@ -1,6 +1,7 @@
 # UCS645 – LAB1 (OpenMP Experiments)
 
 Student: Aniket Gupta 
+
 Roll NO: 102317169
 
 ---
@@ -128,4 +129,4 @@ Using more threads than the number of physical cores introduces overhead.
 
 This overhead reduces overall efficiency and performance.
 
-**End of LAB1 – Experimental Section**
+
