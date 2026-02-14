@@ -4,7 +4,9 @@
 **Lab Number:** 2  
 **Programming Model:** OpenMP (Shared Memory)  
 **Language:** C  
-**Platform:** Ubuntu (WSL)  
+
+**Name:** Aniket Gupta
+**Roll Number** 102317169
 
 ---
 
