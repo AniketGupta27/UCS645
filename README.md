@@ -66,7 +66,9 @@ g++ -fopenmp src/*.cpp -o matrix
 ## Submitted By:
 
 **Aniket Gupta**
+
 Roll No: 102317169
+
 Subgroup: 3Q21
 
 ---
@@ -80,4 +82,5 @@ This project demonstrates how parallel computing significantly improves performa
 ## Acknowledgment
 
 Guided by **Dr. Saif Nalband**
+
 Thapar Institute of Engineering and Technology
